@@ -1,6 +1,6 @@
 <?php 
-    $username = $_GET['username'];
-    $pwd = $_GET['pwd'];
+    $username = $_POST['username'];
+    $pwd = $_POST['pwd'];
 ?>
 
 <!DOCTYPE html>
